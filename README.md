@@ -1,44 +1,51 @@
-# 📊 Superstore Sales Dashboard
+# 📊 Superstore Sales Dashboards
 
-This repository contains an interactive Excel dashboard built using the **Sample Superstore** dataset.
+This repository contains **3 interactive Excel dashboards** built using the Sample Superstore dataset. These dashboards use PivotTables, PivotCharts, Slicers, and Excel formatting to deliver clean, interactive insights.
 
 ---
 
-## ✅ Features:
-- Built using **Microsoft Excel**
-- Uses **PivotTables**, **PivotCharts**, and **Slicers**
-- Interactive filters for:
-  - Segment (Consumer, Corporate, Home Office)
-  - Region (Central, East, South, West)
-  - Ship Mode (First Class, Second Class, Same Day, Standard Class)
-- Shows **Category-wise Sales** (Furniture, Office Supplies, Technology)
+## ✅ Dashboards Included:
+
+### 1️⃣ Superstore Sales Dashboard
+- Shows total sales by product **Category**
+- Slicers: **Segment**, **Region**, **Ship Mode**
+- File: `SuperstoreDashboard.xlsx`
+
+### 2️⃣ Monthly Sales Trend Dashboard
+- Line chart showing **Monthly Sales trends**
+- Grouped by **Year** and **Month**
+- Slicers: **Segment**, **Region**
+- File: `Superstore_FinalDashboard.xlsx`
+
+### 3️⃣ Profit by Product Category Dashboard
+- Shows **Profit** for each product category
+- Slicers: **Segment**, **Region**, **Ship Mode**
+- File: `ProfitDashboard.xlsx`
 
 ---
 
 ## 💡 Tools Used:
-- Microsoft Excel
-- Copilot AI (for formatting & suggestions)
-- GitHub (for version control & sharing)
-
----
-
-## 📁 File:
-- `SuperstoreDashboard.xlsx` – Excel file with the dashboard
+- Microsoft Excel (PivotTables, PivotCharts, Slicers)
+- GitHub (for version control & portfolio)
+- Copilot AI + ChatGPT (for support & formatting)
 
 ---
 
 ## 📌 How to Use:
-1. Download the Excel file
+1. Download the Excel files from this repo
 2. Open in Microsoft Excel
-3. Use the slicer buttons to filter and explore the sales data
+3. Use slicers to explore sales and profit insights
+4. Feel free to customize charts or add features!
 
 ---
 
 ## 🔗 Dataset Source:
-Based on the **Sample - Superstore** dataset, widely used for data visualization practice.
+Based on the **Sample - Superstore** dataset  
+(Commonly used for data visualization practice)
 
 ---
 
-## 🧑‍💻 Created by:
+## 🧑‍💻 Created By:
 **Sumanth P**  
-Aspiring Data Analyst | Passionate about Excel, SQL, Python & AI-powered dashboards
+Aspiring Data Analyst  
+Passionate about **Excel, SQL, Python & AI dashboards**
